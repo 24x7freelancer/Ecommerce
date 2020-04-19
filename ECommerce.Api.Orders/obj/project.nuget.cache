@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMZl5xS+kUjYozu0jt045aIHlAFDGEWedlDpzOFv9Y1ML4Vvv25xt7Vv0oV3EtdGKaM9IkEstE5GUCZ/z5ZX4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bvdot\\source\\repos\\Ecommerce\\Ecommerce\\Ecommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bvdot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\bvdot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
