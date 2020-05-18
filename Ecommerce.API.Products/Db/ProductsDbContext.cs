@@ -10,9 +10,9 @@ namespace ECommerce.Api.Products.Db
     {
         public DbSet<Product> Products { get; set; }
 
-        public ProductsDbContext()
+        public ProductsDbContext(DbContextOptions options) : base(options)
         {
-
+           
         }
 
     }
