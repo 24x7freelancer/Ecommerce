@@ -14,7 +14,8 @@
         "outputPath": "C:\\Users\\bvdot\\source\\repos\\Ecommerce\\Ecommerce\\Ecommerce\\ECommerce.Api.Customers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\bvdot\\AppData\\Roaming\\NuGet\\NuGet.Config",
