@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace ECommerce.Api.Products.Db
-{
+{    // for database access
     public class Product
     {
         public int Id { get; set; }
